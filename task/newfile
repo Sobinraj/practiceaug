@@ -4,4 +4,4 @@ task 3
 new task added task 4
 using reset
 adding line using of reset soft command 
-pushing the file to git hub repo
+changing the line after the push using reset soft command
